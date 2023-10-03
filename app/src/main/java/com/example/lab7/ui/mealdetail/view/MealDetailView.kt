@@ -80,7 +80,7 @@ fun MealDetailScreen(mealId: String) {
             }
 
         } else {
-            Text("Cargando detalles de la comida...")
+            Text("")
         }
     }
 }
